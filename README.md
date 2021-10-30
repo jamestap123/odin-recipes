@@ -1,0 +1,1 @@
+This project is intended to solidify my understanding of HTML aswell as the use of Git.
